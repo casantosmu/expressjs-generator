@@ -17,7 +17,7 @@ This template provides a minimal setup to get started with Express.js, with lint
 npm install
 
 # Start development server with auto-restart
-npm run dev
+npm run start:dev
 
 # Start production server
 npm start
@@ -35,7 +35,7 @@ PORT=3000
 # Add other environment variables here
 ```
 
-**Note:** If you run `npm run dev` without a `.env` file, you'll see this error:
+**Note:** If you run `npm run start:dev` without a `.env` file, you'll see this error:
 
 ```
 node: .env: not found
