@@ -1,6 +1,7 @@
 # Express.js + Typescript
 
 This template provides a minimal setup to get started with Express.js and TypeScript, with linting and development tools pre-configured.
+
 ## Features
 
 - Express.js 5.x
